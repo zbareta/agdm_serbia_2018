@@ -28,8 +28,7 @@ skype: 			zeljko.bareta
 			<input type="hidden" name="password" value=<?php echo $_POST['password'] ?>>
 			<input type="submit" value='Search'></form>
 
-<iframe width="100%" height="100%" src="https://app.powerbi.com/view?r=eyJrIjoiMTlkNzA2MGMtYzVhZC00NTMxLWIwNGEtY2YyNzFhODc1ZTMzIiwidCI6ImU1YzM3OTgxLTY2NjQtNDEzNC04YTBjLTY1NDNkMmFmODBiZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+	<!-- Power BI embed code goes here -->
 	</div>
 		
 	</body>
