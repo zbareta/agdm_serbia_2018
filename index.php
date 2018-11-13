@@ -2,7 +2,6 @@
 Zeljko Bareta - IM Associate, Belgrade, Serbia
 work e-mail:	BARETA@unhcr.org
 private e-mail:	zbareta@gmail.com
-mobile:			+38163 366 158
 skype: 			zeljko.bareta
 -->
 <?php ob_start(); ?>
